@@ -1,4 +1,4 @@
-### Hi, my name is Vitoria :wave:
+### Hi, my name is Vitória :wave:
 
 <div align="center" style="display: inline">
     <a href="https://github.com/CoralineVi">
