@@ -2,8 +2,8 @@
 
 <div align="center" style="display: inline">
     <a href="https://github.com/CoralineVi">
-        <img height="167em" src="https://github-readme-stats.vercel.app/api?username=CoralineVi&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-        <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoralineVi&langs_count=20&theme=shades-of-purple&layout=compact"/>
+        <img height="166em" src="https://github-readme-stats.vercel.app/api?username=CoralineVi&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+        <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoralineVi&langs_count=20&theme=shades-of-purple&layout=compact"/>
 </div>
 
 <div align="center" style="display: inline_block; margin-top: .5em"><br>
