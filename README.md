@@ -1,8 +1,5 @@
-<center>
-   
-   ## Olá, eu me chamo Coraline :wave
+<h1 style="text-align:center;">Olá, eu me chamo Coraline :wave:</h1>
 
-</center>
 <div align="center">
     <a href="https://github.com/CoralineVi">
         <img height="166em" src="https://github-readme-stats.vercel.app/api?username=CoralineVi&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
