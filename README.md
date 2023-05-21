@@ -18,5 +18,5 @@
 <code><img width="3%" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
 <code><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img width="3%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8IawLac-HTReB2XsUpdnK33SZsfNXehD_2pUawxKO&s"></code>
+<code><img width="3%" src="https://icons8.com.br/icon/uVERmCBZZACL/notion"></code>
 </div>
